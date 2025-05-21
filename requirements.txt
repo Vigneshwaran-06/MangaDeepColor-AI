@@ -1,0 +1,7 @@
+tensorflow==2.12.0
+numpy
+opencv-python
+pillow
+streamlit
+flake8
+black
