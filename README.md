@@ -1,4 +1,4 @@
-# Manga Magic
+# MangaDeepColor-AI
 
 Python AI tool to colorize manga images with advanced deep learning super resolution and denoising.
 
